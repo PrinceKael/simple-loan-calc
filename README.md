@@ -7,3 +7,5 @@ Outputs: Next Monthly Repayment
 Built with JavaScript, HTML & CSS.
 
 Thanks to Mark for help!
+
+Priority: Fix amortisation

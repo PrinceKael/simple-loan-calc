@@ -5,3 +5,5 @@ Inputs required: Principal, Interest Rate, and Months Remaining.
 Outputs: Next Monthly Repayment
 
 Built with JavaScript, HTML & CSS.
+
+Thanks to Mark for help!
